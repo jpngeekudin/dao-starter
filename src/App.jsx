@@ -3,6 +3,7 @@ import { ChainId } from "@thirdweb-dev/sdk";
 import { AddressZero } from '@ethersproject/constants';
 import { useEffect, useMemo, useState } from "react";
 
+// update push
 const App = () => {
   // use the hooks thirdweb give us.
   const address = useAddress();
