@@ -1,0 +1,17 @@
+collction drop
+0xb12F7fDa84d1358587238a28f9D00486B8c512f2
+{
+  name: 'BDSMDAO Membership',
+  description: 'Membership Pass for number 1 BDSM Lover DAO!',
+  image: 'https://gateway.ipfscdn.io/ipfs/QmPnzbT5y9ZDHFW3LPoRGSQAaWjNyrcVLCsC7ZHdyGFKFj/0',
+  seller_fee_basis_points: 0,
+  fee_recipient: '0x0000000000000000000000000000000000000000',
+  merkle: {},
+  symbol: ''
+}
+
+governance token address
+0x2C1FE3fCB08D666A799781A36d1afc1B6e8ABd49
+
+vote contract address
+0x3eCCBDf2DBb8aE25A0aD8ECaC52DfAb6261F6031
